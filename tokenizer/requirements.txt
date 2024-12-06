@@ -1,1 +1,4 @@
 tiktoken
+torch
+numpy
+matplotlib
